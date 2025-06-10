@@ -1,0 +1,1 @@
+export type BMICategory = 'Underweight' | 'Normal weight' | 'Overweight' | 'Obesity';
